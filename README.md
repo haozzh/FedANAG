@@ -1,7 +1,7 @@
-# Stabilizing and Accelerating Federated Learning on Heterogeneous Data
+# Stabilizing and Accelerating Federated Learning on Heterogeneous Data with Partial Client Participation
 
 
-This directory contains source code for evaluating federated learning with FedANAG on various models and tasks. The code was developed for a paper, "Stabilizing and Accelerating Federated Learning on Heterogeneous Data".
+This directory contains source code for evaluating federated learning with FedANAG on various models and tasks. The code was developed for a paper, "Stabilizing and Accelerating Federated Learning on Heterogeneous Data with Partial Client Participation".
 
 ## Requirements
 
